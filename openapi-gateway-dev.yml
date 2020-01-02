@@ -6,5 +6,5 @@ spring:
     url: jdbc:mysql:///openapi-admin
     type: com.alibaba.druid.pool.DruidDataSource
   rabbitmq:
-    host: 39.105.88.86
-    port: 5672
+    host: rabbitmq.qfjava.cn
+    port: 8800
